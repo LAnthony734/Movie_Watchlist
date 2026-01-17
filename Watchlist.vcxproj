@@ -23,7 +23,7 @@
     <ProjectGuid>{3029BAC4-16A6-46D4-A41E-59673670CD02}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Project3</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
     <ProjectName>Watchlist</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
